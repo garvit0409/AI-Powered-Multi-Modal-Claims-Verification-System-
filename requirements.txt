@@ -1,0 +1,11 @@
+streamlit
+pandas
+pillow
+plotly
+google-genai
+groq
+chromadb
+sentence-transformers
+langchain-community
+langchain-text-splitters
+huggingface-hub
